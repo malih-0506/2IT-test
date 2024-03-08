@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    font-size: larges;
+    font-style: italic;
+}
+
+body{
+    background-color: aqua;
+}
+
+.image-container{
+    margin-left: 60px;
+    align-items: center;
+    margin-top: 150px;
+    margin-right: 60px;
+}
+
+.login{
+    width: 50px;
+}
